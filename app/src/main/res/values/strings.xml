@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppOne</string>
+    <string name="text_hint">Enter text here.</string>
+    <string name="button_voice_to_text">Voice totext</string>
+    <string name="button_search">Search</string>
+</resources>

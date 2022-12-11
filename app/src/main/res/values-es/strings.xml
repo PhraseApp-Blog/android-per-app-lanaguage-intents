@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_hint">introducir texto aquí.</string>
+    <string name="button_voice_to_text">Voz a texto</string>
+    <string name="button_search">Búsqueda</string>
+</resources>
